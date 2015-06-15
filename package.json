@@ -1,0 +1,25 @@
+{
+  "name": "sprite-stitcher",
+  "version": "0.0.0",
+  "description": "Stitches a folder full of images into a single sprite sheet, ready for animation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/gdborton/sprite-stitcher"
+  },
+  "keywords": [
+    "sprite",
+    "sheet",
+    "animation",
+    "game"
+  ],
+  "bin": "index.js",
+  "author": "Gary Borton <gdborton@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "images": "^2.1.6"
+  }
+}
